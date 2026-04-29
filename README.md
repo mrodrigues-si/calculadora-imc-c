@@ -49,3 +49,33 @@ Calculadora de Índice de Massa Corporal (IMC) desenvolvida em linguagem C duran
 ---
 
 ## 💡 Exemplo de Uso
+
+Digite o seu nome: Matheus Qual e o seu peso? (Ex: 76.7) 78 Qual e a sua altura? (Ex: 1.78) 1.80
+
++----------------+-------------------------+ | IMC | Classificacao | +----------------+-------------------------+ | < 18.5 | Abaixo do peso | | 18.5 - 24.9 | Peso normal | | 25.0 - 29.9 | Sobrepeso | | 30.0 - 34.9 | Obesidade Grau 1 | | 35.0 - 39.9 | Obesidade Grau 2 | | >= 40.0 | Obesidade Grau 3 | +----------------+-------------------------+
+
+Seu IMC e: 24.07
+
+Voce esta com o peso normal, parabens!
+
+
+Copy code
+
+---
+
+## 🚀 Diferenciais do Projeto
+
+- ✅ Tabela de referência visual integrada no terminal
+- ✅ 6 níveis de classificação completos (padrão OMS)
+- ✅ Mensagens personalizadas para cada faixa
+- ✅ Valores formatados com 2 casas decimais
+- ✅ Interface limpa e organizada com caracteres ASCII
+
+---
+
+## 👤 Autor
+
+Feito por **Matheus Rodrigues** durante a graduação em Sistemas de Informação — UFU.
+
+📎 [LinkedIn](https://www.linkedin.com/in/mrodrigues-si)  
+💻 [GitHub](https://github.com/mrodrigues-si)
